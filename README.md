@@ -60,7 +60,7 @@ food-hub/ │── src/ │ ├── components/ # Reusable UI components
 ![Cart Section](https://github.com/rahulpatel51/Food---Hub/blob/main/Image/Cart.png)
 
 ### 🚀 Order Tracking
-![Order Tracking](https://github.com/rahulpatel51/Food-Hub/blob/main/Tracking.png?raw=true)
+![Order Tracking](https://github.com/rahulpatel51/Food---Hub/blob/main/Image/Profile.png)
 
 ---
 
@@ -71,7 +71,7 @@ Follow the steps below to set up and run the **Food Hub - Food Delivery Web App*
 ### 1️⃣ **Clone the Repository**  
 Open your terminal or command prompt and run the following command to clone the repository from GitHub:  
 ```sh
-git clone https://github.com/rahulpatel51/Food-Hub.git
+git clone https://github.com/rahulpatel51/Food---Hub.git
 
 cd food-hub
 
