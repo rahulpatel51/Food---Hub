@@ -51,13 +51,13 @@ food-hub/ │── src/ │ ├── components/ # Reusable UI components
 ## 📸 Food Hub Preview
 
 ### 🏠 Home Page
-![Home Page](https://github.com/rahulpatel51/Food-Hub/blob/main/HomePage.png?raw=true)
+![Home Page](https://github.com/rahulpatel51/Food---Hub/blob/main/Image/Home.png)
 
-### 🍔 Food Menu
-![Menu Section](https://github.com/rahulpatel51/Food-Hub/blob/main/Menu.png?raw=true)
+### 🍔 Offers
+![Menu Section](https://github.com/rahulpatel51/Food---Hub/blob/main/Image/Offers.png)
 
 ### 🛒 Cart & Checkout
-![Cart Section](https://github.com/rahulpatel51/Food-Hub/blob/main/Cart.png?raw=true)
+![Cart Section](https://github.com/rahulpatel51/Food---Hub/blob/main/Image/Cart.png)
 
 ### 🚀 Order Tracking
 ![Order Tracking](https://github.com/rahulpatel51/Food-Hub/blob/main/Tracking.png?raw=true)
