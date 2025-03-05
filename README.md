@@ -65,7 +65,11 @@ food-hub/ │── src/ │ ├── components/ # Reusable UI components
 ---
 
 ## 📦 Installation & Setup
-1️⃣ **Clone the repository:**
+
+Follow the steps below to set up and run the **Food Hub - Food Delivery Web App** on your local machine.
+
+### 1️⃣ **Clone the Repository**  
+Open your terminal or command prompt and run the following command to clone the repository from GitHub:  
 ```sh
 git clone https://github.com/rahulpatel51/Food-Hub.git
 
@@ -75,6 +79,6 @@ npm install
 
 npm run dev
 
-- 🛠️ Build for Production
-npm run build
+This will start the application, and you can access it in your browser at:
+http://localhost:3000 🎉
 
