@@ -23,7 +23,7 @@ const offers = {
       restaurant: "Pizza Paradise",
       validUntil: "2024-03-31",
       image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&q=80",
-      terms: ["Valid on minimum order of ₹200", "First-time customers only"],
+      terms: ["Valid on minimum order of ₹200", "First-time customers only", "Maximum discount: ₹150"],
     },
   ],
   newUser: [
@@ -31,6 +31,7 @@ const offers = {
       id: 3,
       title: "60% OFF up to ₹150",
       description: "Welcome offer for new users",
+      restaurant: "noodles",
       validUntil: "2024-12-31",
       image: "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=500&q=80",
       terms: ["Valid on first order", "Minimum order value: ₹200", "Maximum discount: ₹150"],
