@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react"
+import { Facebook, Github, Instagram, Linkedin, Twitter } from "lucide-react"
 
 export default function Footer() {
   const majorCities = [
@@ -88,19 +88,19 @@ export default function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-white">Follow Us</h3>
             <div className="flex space-x-4">
-              <Link href="#" className="hover:text-orange-400">
-                <Facebook className="h-5 w-5" />
-                <span className="sr-only">Facebook</span>
+              <Link href="https://github.com/rahulpatel51" className="hover:text-orange-400">
+                <Github className="h-5 w-5" />
+                <span className="sr-only">Github</span>
               </Link>
-              <Link href="#" className="hover:text-orange-400">
+              <Link href="https://x.com/RahulPatel11131" className="hover:text-orange-400">
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
               </Link>
-              <Link href="#" className="hover:text-orange-400">
+              <Link href="https://www.instagram.com/rahulislost_/" className="hover:text-orange-400">
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </Link>
-              <Link href="#" className="hover:text-orange-400">
+              <Link href="https://www.linkedin.com/in/rahul-patel231/" className="hover:text-orange-400">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>

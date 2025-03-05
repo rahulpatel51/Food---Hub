@@ -47,21 +47,21 @@ export default function ProfilePage() {
                   <div className="flex flex-col gap-6 md:flex-row">
                     <div className="space-y-2 md:w-1/2">
                       <Label htmlFor="name">Full Name</Label>
-                      <Input id="name" defaultValue="John Doe" />
+                      <Input id="name" defaultValue="Rahul Patel" />
                     </div>
                     <div className="space-y-2 md:w-1/2">
                       <Label htmlFor="email">Email Address</Label>
-                      <Input id="email" type="email" defaultValue="john.doe@example.com" />
+                      <Input id="email" type="email" defaultValue="ra.rahul11131@gmail.com" />
                     </div>
                   </div>
                   <div className="flex flex-col gap-6 md:flex-row">
                     <div className="space-y-2 md:w-1/2">
                       <Label htmlFor="phone">Phone Number</Label>
-                      <Input id="phone" defaultValue="+91 9876543210" readOnly />
+                      <Input id="phone" defaultValue="+91 9555240956" readOnly />
                     </div>
                     <div className="space-y-2 md:w-1/2">
                       <Label htmlFor="dob">Date of Birth</Label>
-                      <Input id="dob" type="date" defaultValue="1990-01-01" />
+                      <Input id="dob" type="date" defaultValue="2003-03-30" />
                     </div>
                   </div>
                   <Button className="mt-4 bg-orange-600 hover:bg-orange-700">Save Changes</Button>
